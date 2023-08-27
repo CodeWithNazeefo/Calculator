@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_activity_background_color">#FFFFFFFF</color>
+    <color name="operation_btn_color">#969593</color>
+    <color name="arithmetic_operation_btn_color">#F3C82E</color>
+    <color name="digit_btn_color_night_mode">#3D3B3C</color>
+
+
+</resources>
